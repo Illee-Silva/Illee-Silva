@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+Eu+me+chamo+Illee+Lucian+Silva;Cursando+DSM+Fatec+Sul)](https://git.io/typing-svg)
 
 <!--
 **Illee-Silva/Illee-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
