@@ -3,7 +3,8 @@
 ![Illee Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Illee-Silva&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Illee-Silva&theme=dark&langs_count=8)
 
-### Areas de Conhecimento
+### Areas de Conhecimento 🎒
+
 
 
 
