@@ -11,6 +11,7 @@
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQl](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Ingl%C3%AAs-blue-Intermedi%C3%A1rio)
 
 
 ### Atualmente estudando 🏫
