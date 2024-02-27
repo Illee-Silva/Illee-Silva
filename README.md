@@ -4,11 +4,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Illee-Silva&theme=dark&langs_count=8)
 
 ### Areas de Conhecimento 🎒
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Atualmente estudando 🏫
-![teste](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-t
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
 
 <!--
 **Illee-Silva/Illee-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
