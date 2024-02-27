@@ -1,7 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+Eu+me+chamo+Illee+Lucian+Silva;Cursando+DSM+na+Fatec+Sul)](https://git.io/typing-svg)
 
 ![Illee Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Illee-Silva&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Illee-Silva&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Illee-Silva&theme=dark&langs_count=8)
 
 
 <!--
